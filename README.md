@@ -10,6 +10,11 @@ This is a small example what you can do with the Unicorn Shield and the Raspberr
 
 ![Coding Unicorn Shield project Photobooth](photobooth/img/coding_unicorn_shield_photoboth.gif)
 
+## Hashtag Watcher
+With this project you can make your Unicorn Shield blink everytime a certain hashtag is used on Twitter. You can find the [example code here](hastag-watcher/hastag-watcher.py) and a [tutorial here](hashtag-watcher).
+
+![Coding Unicorn Shiled project hashtag Watcher]()
+
 
 ## People on the ISS
 Do you every whonder how many people are in space? With the Coding Unicorn Shield and the Raspberry Pi you can easily build a display for that.  We have the [example code](/people-in-space/people-in-space.py) and a short tutorial [here](/people-in-space).
