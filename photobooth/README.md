@@ -52,6 +52,7 @@ except:
   unicorn.clear()
 
 ```
+`sudo python photobooth.py`
 
 After starting the program you can always stop it with `Ctrl + c` on your keyboard. To see the preview image you need to connect a display to the raspberry pi, but the program will work also without a connected display.
 The program will show you with the green light that it is ready to take the picture. After touching the nose, we can see the countdown because more of the led get to pink. After the picture was taken the whole unicorn shield will be blinking in blue to display that the image was taken and then change back into green so you know, the program is ready to take another picture. You always can change the color of the LEDs so that the unicorn can use your favorite colors.
