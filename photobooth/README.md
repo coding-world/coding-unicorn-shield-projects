@@ -70,5 +70,6 @@ In line 20 we are using the `.setAll()` function again to make the Unicorn Shiel
  ## Conclusion
  This little project shows how you can connect the input devices for the unicorn and having a pretty smart way in using the RGB LEDs. You also could add further functionality to this project by e.g. tweet the last photo after pressing the button or taking a video and then creating GIF. Like always the possibilities are nearly endless.
 
+![Samuel Brinkmann taking a selfie with the Coding Unicorn Shield](img/picture-raspberrypi-camera.jpg)
 
  Code - Create - Change
