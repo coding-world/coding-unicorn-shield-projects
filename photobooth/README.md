@@ -1,4 +1,4 @@
-# Coding Unicorn Shield Photobooth
+# Coding Unicorn Shield: Photobooth Project
 
 ![Coding Unicorn Shield Photobooth in action](img/coding_unicorn_shield_photoboth.gif)
 
@@ -18,9 +18,12 @@ If you have never worked with the Raspberry Pi Camera Module and Python, the Ras
 You can activate the camera module with `sudo raspi-config` and then `5 Interfacing Options -> P1 Camera -> Yes -> Ok` and then restarting your Raspberry Pi.
 After this you should connect your unicorn Shield to the Raspberry Pi and also connect the Camera.
 
-[**photobooth.py**](photobooth.py)
+
 
 ## The Code
+
+[**photobooth.py**](photobooth.py)
+
 ```python
 from picamera import PiCamera
 import unicornshield as unicorn
