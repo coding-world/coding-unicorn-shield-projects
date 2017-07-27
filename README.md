@@ -13,7 +13,7 @@ This is a small example what you can do with the Unicorn Shield and the Raspberr
 ## Hashtag Watcher
 With this project you can make your Unicorn Shield blink everytime a certain hashtag is used on Twitter. You can find the [example code here](hastag-watcher/hastag-watcher.py) and a [tutorial here](hashtag-watcher).
 
-![Coding Unicorn Shiled project hashtag Watcher]()
+![Coding Unicorn Shiled project hashtag Watcher](hastag-watcher/img/hashtag-watcher-wednesWisdom.gif)
 
 
 ## People on the ISS
