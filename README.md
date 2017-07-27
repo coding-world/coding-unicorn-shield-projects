@@ -2,7 +2,7 @@
 
 Find more Information on Kickstarter (coming soon)!
 
-In this repository we will keep a list of examples and tutorials how to use the Coding Unicorn Shield. If you have any questions or feedback feel free to make commit or send us an email to  samuel @ codingworld.io . You can find more German resources on [codingworld.io](https://codingworld.io)
+In this repository we will keep a list of examples and tutorials how to use the Coding Unicorn Shield. We will also link to other projects. If you have any questions or feedback feel free to make commit or send us an email to  samuel@codingworld.io . You can find more German resources on [codingworld.io](https://codingworld.io)
 
 ## The photobooth
 

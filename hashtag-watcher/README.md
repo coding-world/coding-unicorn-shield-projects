@@ -2,6 +2,8 @@
 
 Twitter is a great service for short messages with less than 140 characters. You can follow for example us at [@codingworlden](https://twitter.com/codingworlden) but you also can integrate it easily in your program because of their quiet open API. In this project, we are using their API and are listening to special words which are send. You can easily mark a tweet with a # or hashtag for a topic. With this project we are listening to one hashtag and every time someone is using this hashtag, our Coding Unicorn Shield will blink. In this example we are have listned to [#WednesdayWisdom](https://twitter.com/search?q=%23WednesdayWisdom) but obviously you can look for various content. You can find more information in this [Sparkfun Tutorial])(https://learn.sparkfun.com/tutorials/raspberry-pi-twitter-monitor) and this [Tutorial by the Raspberry Pi Foundation](https://www.raspberrypi.org/learning/getting-started-with-the-twitter-api/worksheet/)
 
+![](img/hashtag-watcher-wednesWisdom.gif)
+
 ## What you need
 
 For this you need:

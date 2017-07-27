@@ -4,7 +4,7 @@ import time
 
 searchTerm = '#WednesdayWisdom'
 
-# Insert your Information here
+# Insert your API credentials here
 APP_KEY = '...'
 APP_SECRET = '...'
 OAUTH_TOKEN = '...-...'
