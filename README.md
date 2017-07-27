@@ -4,16 +4,23 @@ Find more Information on Kickstarter (coming soon)!
 
 In this repository we will keep a list of examples and tutorials how to use the Coding Unicorn Shield. We will also link to other projects. If you have any questions or feedback feel free to make commit or send us an email to  samuel@codingworld.io . You can find more German resources on [codingworld.io](https://codingworld.io)
 
-## The photobooth
+> Please note that all of the documentation and code is still in beta status. We will improve it in the next weeks and months. If you have any feedback or concrete improvements make a commit or send us a email to samuel@codingworld.io
 
-This is a small example what you can do with the Unicorn Shield and the Raspberry Pi Camera Module. We have the [example code](/photobooth/photobooth.py) and a short tutorial [here](/photobooth).
+## Demo and Documentation
+With this project we are showing you the current status of the Python Libary for the Raspberry Pi and how you can create your own Demo. You can find the [example code here](demo+documentation/demo.py) and the [documentation and the tutorial here](demo+documentation/).
 
-![Coding Unicorn Shield project Photobooth](photobooth/img/coding_unicorn_shield_photoboth.gif)
+![Coding Unicorn Shield Demo program](demo+documentation/img/demo.gif)
 
 ## Hashtag Watcher
 With this project you can make your Unicorn Shield blink everytime a certain hashtag is used on Twitter. You can find the [example code here](hastag-watcher/hastag-watcher.py) and a [tutorial here](hashtag-watcher).
 
 ![Coding Unicorn Shiled project hashtag Watcher](hashtag-watcher/img/hashtag-watcher-wednesWisdom.gif)
+
+## The photobooth
+
+This is a small example what you can do with the Unicorn Shield and the Raspberry Pi Camera Module. We have the [example code](/photobooth/photobooth.py) and a short tutorial [here](/photobooth).
+
+![Coding Unicorn Shield project Photobooth](photobooth/img/coding_unicorn_shield_photoboth.gif)
 
 
 ## People on the ISS
