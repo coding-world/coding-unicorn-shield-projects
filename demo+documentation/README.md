@@ -131,7 +131,7 @@ while True:
 
 You can execute the program with `sudo python demo.py` and then stop the program at any time with `Ctrl + C`.  You always need to execute the program with sudo because we need the pwm signals for the Pixels/WS2812B LEDs.
 
-## Step for Ste
+## Step for Step
 In the first three lines we are including all the neccassary libaries. We need the `unicornshield` libary which we did install in the steps before. because `unicornshield` is quiet a long name, we use the `as unicorn` for giving it a short nickname. For making our animation more beautial we also use the `sleep()`
 function from the `time` libary and the `randint()` function from the `random` libary.
 
