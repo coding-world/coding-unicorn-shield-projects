@@ -11,6 +11,11 @@ With this project we are showing you the current status of the Python Libary for
 
 ![Coding Unicorn Shield Demo program](demo+documentation/img/demo.gif)
 
+## Personal Email Notifications
+With this project you will your own personal email notification unicorn. Check with one lock if you have unread emails or use the do not disturb mode. You can find the [example code here](email-notifications/email-notifications.py) and the [tutorial here](email-notifications)
+
+![Coding Unicorn Shield Project Personal EMail Notificaitons](email-notifications/img/email-notifications-example-shield.gif)
+
 ## Hashtag Watcher
 With this project you can make your Unicorn Shield blink everytime a certain hashtag is used on Twitter. You can find the [example code here](hastag-watcher/hastag-watcher.py) and a [tutorial here](hashtag-watcher).
 
