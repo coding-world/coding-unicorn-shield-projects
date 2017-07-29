@@ -58,7 +58,7 @@ We have created a libary for the Raspberry Pi and Python. You can install it wit
 Because the WS2812B/Pixel need the hardware PWM (GPIO18) for their communication, which is also used to generate the audio for the headphone jack, we maybe need to turn that off. You can do that with `sudo raspi-config` and then `7 Advanced Options -> A4 Audio -> 2 Force HDMI -> Ok`.
 
 ## List of function
-| Function | Explaination | Parameters |d
+| Function | Explaination | Parameters |
 | -- | -- | -- |
 | `.brightness(b)` | Set's the brightness for the RGB LED/Pixel on the Unicorn | b=brightness, ranging from 0-1 |
 | `.getBrightness()` | Returns the current brightness | |
