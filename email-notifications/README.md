@@ -85,7 +85,7 @@ while True:
 ```
 
 ## Step for Step
-Because the code is very long we won't got for everything into detail. You find more information in the [Demo and Documentation Project][../demo+documentation].
+Because the code is very long we won't got for everything into detail. You find more information in the [Demo and Documentation Project](../demo+documentation).
 
 In the first three lines we are importing all the necassary libaries. We need the `imaplib` for the communication with the email server.
 
