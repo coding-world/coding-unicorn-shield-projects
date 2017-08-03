@@ -10,7 +10,7 @@ pip install -r requirements.txt
 The Server is a small Flask application. You can easy start it with the following command:
 
 ```
-python3 server.py
+sudo python server.py
 ```
 
 # Usage
@@ -22,7 +22,7 @@ You can send HTTP Request to the Server (default: http://127.0.0.1:5000)
 * /eye/right?status=off -> Turns the right eye off
 * /nose -> Return the Value of the Nose-Sensor in Secounds
 * /ear -> Return the Value of the Button at the ear of the unicorn
-* /pixel/<id>?r=0&g=0&b=0 -> Set one Pixel (relplace <id> with a number). r, g and b can be between 0 and 255
+* /pixel/<id>?r=0&g=0&b=0 -> Set one Pixel (relplace <id> with a number from 0 to 8). r, g and b can be between 0 and 255
 
 # Example
 Turn the secound Pixel to red:
