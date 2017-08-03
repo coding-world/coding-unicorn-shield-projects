@@ -13,3 +13,5 @@ class unicornmock:
         return False;
     def setPixel(x, r, g, b):
         pass
+    def show():
+        pass
