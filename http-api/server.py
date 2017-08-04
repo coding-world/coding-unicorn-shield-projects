@@ -1,8 +1,7 @@
 from flask import Flask, request
 from flask_cors import CORS, cross_origin
 import json
-#import unicornshield as unicorn
-from src.unicornMock import unicornmock as unicorn
+import unicornshield as unicorn
 
 
 app = Flask(__name__)
