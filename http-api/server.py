@@ -26,7 +26,7 @@ def leftEye():
 
     return json.dumps({"status": True});
 
-@app.route("/eye/rigth")
+@app.route("/eye/right")
 def rightEye():
     status = request.args.get('status')
     if status == None:
